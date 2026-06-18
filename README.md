@@ -49,11 +49,11 @@
 
 📈 What I'm focused on right now
 
-✅ Canteen Management System frontend — complete & deployed
-🔗 Live: [vasavi-cafeteria-ui-git-main-kusumas-projects-b4cc15a8.vercel.app](https://vasavi-cafeteria-ui-git-main-kusumas-projects-b4cc15a8.vercel.app/)
-📖 Learning Java — OOP, Collections
-🔜 Spring Boot + REST APIs
-🔜 Connecting frontend + backend into full stack 
+> ✅ Canteen Management System frontend — complete & deployed
+> 🔗 Live: [vasavi-cafeteria-ui-git-main-kusumas-projects-b4cc15a8.vercel.app](https://vasavi-cafeteria-ui-git-main-kusumas-projects-b4cc15a8.vercel.app/)
+> 📖 Learning Java — OOP, Collections
+> 🔜 Spring Boot + REST APIs
+> 🔜 Connecting frontend + backend into full stack 
 
 ---
 
