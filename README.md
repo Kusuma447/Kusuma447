@@ -1,6 +1,6 @@
 # Hi, I'm Kusuma 👋
 
-🎓  CS Student @ Sri Vasavi Engineering College (CSE '28) 
+🎓  CS Student @ Sri Vasavi Engineering College (CSE '28)                                            
 🛠️ Currently building a **Canteen Web Management System** (HTML, CSS, JS → Java + Spring Boot)  
 🚀 Aspiring Backend Engineer | Learning full stack development from scratch  
 🤖 Passionate about building AI-powered web applications  
@@ -24,8 +24,8 @@
 ## 📌 Projects
 
 🍽️ Canteen Web Management System *(frontend complete)*
-Full stack web app for managing canteen orders, menu, and admin operations
-HTML CSS JavaScript — Live Demo | Java Spring Boot backend coming soon
+> Full stack web app for managing canteen orders, menu, and admin operations
+> HTML CSS JavaScript — Live Demo | Java Spring Boot backend coming soon
 ---
 
 ### 🔍 SkillSynth — ATS Resume Analyzer *(learning project)*
@@ -50,7 +50,7 @@ HTML CSS JavaScript — Live Demo | Java Spring Boot backend coming soon
 📈 What I'm focused on right now
 
 ✅ Canteen Management System frontend — complete & deployed
-🔗 Live: vasavi-cafeteria-ui-git-main-kusumas-projects-b4cc15a8.vercel.app
+🔗 Live: [vasavi-cafeteria-ui-git-main-kusumas-projects-b4cc15a8.vercel.app](https://vasavi-cafeteria-ui-git-main-kusumas-projects-b4cc15a8.vercel.app/)
 📖 Learning Java — OOP, Collections
 🔜 Spring Boot + REST APIs
 🔜 Connecting frontend + backend into full stack 
